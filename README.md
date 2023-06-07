@@ -7,7 +7,7 @@
 - 🎨 Computational Media & Design  
 - 🛰 Remote Sensing/GIS
 
-I'm a freshman at the University of Maryland majoring in Computer Science. This is where I will be posting all my past and current projects so please feel free to check them out!
+I'm a sophomore at the University of Maryland majoring in Computer Science. This is where I will be posting all my past and current projects so please feel free to check them out!
 
 <!---
 nani-r/nani-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
